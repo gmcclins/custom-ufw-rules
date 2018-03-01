@@ -1,2 +1,4 @@
 # custom-ufw-rules
-Custom ufw applications
+Custom ufw application rules
+
+Place into /etc/ufw/applications.d
