@@ -1,0 +1,4 @@
+[MiniDLNA]
+title=MiniDLNA
+description=MiniDLNA server for media streaming
+ports=8200/tcp|1900/udp
