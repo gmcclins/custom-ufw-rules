@@ -1,0 +1,4 @@
+[Emby]
+title=Emby
+description=organize, play, and stream audio/video to a variety of devices.
+ports=8096/tcp|8920/tcp
